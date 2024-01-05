@@ -26,6 +26,12 @@ cd SensorsCalibration_v2/lidar2camera/manual_calib
 ./cmake_script/cmake_build.sh
 ```
 
+### Getting Ubuntu 22.04 version
+```shell
+# Also working for Ubuntu 20.04
+git clone -b 22.04 https://github.com/pixmoving-moveit/SensorsCalibration.git
+```
+
 ### Docker installation
 ```shell
 # pull docker image
